@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Kaur</h1>
-<h3 align="center">A passionate Software Tester from Canada</h3>
+<h3 align="center">A passionate QA Analyst from Canada</h3>
 
-- 🔭 I’m currently working on **API TESTING**
+- 🔭 I’m currently working on **TDD FRAMEWORKS**
 
-- 🌱 I’m currently learning **Software testing with Selenium automation**
+- 🌱 I’m currently learning **API TESTING WITH REST ASSURED**
 
-- 🤝 I’m looking for help with **Automation testing**
+- 🤝 I’m looking for help with **MOBILE TESTING**
 
-- 💬 Ask me about **Test cases, Agile, API TESTING, SQL**
+- 💬 Ask me about **Test cases, Agile, FUNCTIONAL TESTING, API TESTING, SQL, TESTNG, UFT QTP, HP ALM, POSTMAN , GIT , GITHUB , SELENIUM WEBDRIVER , JAVA**
 
 - 📫 How to reach me **linkedin.com/in/gurpreet-kaur-26bb4a252**
 
